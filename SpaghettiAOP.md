@@ -8,3 +8,4 @@ tichetetack
 * aglio
 * olio
 * peperoncino
+* prezzemole, che skefe
