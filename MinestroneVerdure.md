@@ -7,3 +7,8 @@ Un ottimo piatto invernale
 * patate
 * carote
 
+* zucchine (alice)
+* peperoni
+* fagioli
+
+
